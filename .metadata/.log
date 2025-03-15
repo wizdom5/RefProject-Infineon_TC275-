@@ -1,0 +1,22 @@
+!SESSION 2025-03-15 20:25:00.515 -----------------------------------------------
+eclipse.buildId=1.8.0
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -perspective com.infineon.aurix.buildmanager.perspective.c
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.infineon.aurix.buildmanager.perspective.c
+
+!ENTRY com.infineon.aurix.buildsystem.remote-repo 1 0 2025-03-15 20:25:39.204
+!MESSAGE Using local cache for artifact: project-initializer:tricore-tc2xx
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-03-15 20:25:41.620
+!MESSAGE Processing template: C:\Users\ldh\Documents\_workspace\Reference_Project(Infineon_TC275)\Src_RefPrj\Cpu0_Main.ftlc
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-15 20:26:07.822
+!MESSAGE Indexed 'Src_RefPrj' (164 sources, 632 headers) in 23.8 sec: 145,882 declarations; 193,942 references; 6 unresolved inclusions; 5,281 syntax errors; 5,956 unresolved names (1.7%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-03-15 20:26:16.094
+!MESSAGE Boosting configuration Debug of project Src_RefPrj boosted in 1997 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-03-15 20:26:16.170
+!MESSAGE Include paths were discovered in 75 milliseconds.
